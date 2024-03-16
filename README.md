@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align=center>
 
-[![codetree](https://banner.codetree.ai/v1/banner/dlgmlfo04)](https://www.codetree.ai/profiles/dlgmlfo04)
+<!--[![codetree](https://banner.codetree.ai/v1/banner/dlgmlfo04)](https://www.codetree.ai/profiles/dlgmlfo04)-->
 
 [![gommy's github stats](https://github-readme-stats.vercel.app/api?username=gommy15)](https://github.com/anuraghazra/github-readme-stats)
 	
