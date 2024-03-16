@@ -3,6 +3,9 @@
 
 <!--[![codetree](https://banner.codetree.ai/v1/banner/dlgmlfo04)](https://www.codetree.ai/profiles/dlgmlfo04)-->
 
+
+![gommy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gommy15&layout=compact)
+
 [![gommy's GitHub Streak](https://streak-stats.demolab.com/?user=gommy15&theme=vue)](https://git.io/streak-stats)
 
 [![gommy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gommy15&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
