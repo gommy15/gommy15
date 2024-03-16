@@ -10,6 +10,7 @@
           <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
           <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+	  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
