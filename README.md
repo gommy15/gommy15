@@ -25,7 +25,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gommy15&layout=compact"/>
-    	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gommy15&theme=vue" alt="gommy's GitHub Streak" /></a></div> 
+    	</div> 
 </div>
     
 <!--### Hi there 👋-->
