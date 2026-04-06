@@ -31,7 +31,10 @@
 <!--### Hi there 👋-->
 <div align=center>
 
-[![gommy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gommy15&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlgmlfo04&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle=dlgmlfo04&theme=cold"/>
+
+<!--[![gommy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gommy15&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!--![gommy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gommy15&layout=compact)-->
 
